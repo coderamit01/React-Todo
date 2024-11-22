@@ -60,7 +60,7 @@ function App() {
                 </div>
               ))
             ) :
-              <h2 className="text-center px-2 py-3 bg-slate-400 rounded text-xl font-semibold text-slate-950">No Task Avilable</h2>
+              <h2 className="text-center px-2 py-3 bg-slate-400 rounded text-xl font-semibold text-slate-950">No Task Available</h2>
           }
         </div>
       </section>
